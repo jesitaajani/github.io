@@ -1,5 +1,5 @@
 ---
-layout: content-only
+layout: default
 title: Research
 permalink: /research/
 ---
