@@ -1,19 +1,23 @@
-title: "Laurin L. Curschellas"
-email: lcurschellas@ucdavis.edu
-github_username: LaurinCurschellas
-logo: /assets/images/profile.jpeg
-cv_url: /assets/files/CV_Curschellas_Laurin_03_2026.pdf
+title: "Jesita Wida Ajani"
+email: jesita.ajani@bsg.ox.ac.uk
+github_username: jesitaajani
+
+logo: /assets/images/profile.jpg
+cv_url: /assets/files/CV_2026.pdf
+
 baseurl: ""
-url: "https://laurincurschellas.github.io"
+url: "https://jesitaajani.github.io"
 
 # SEO Settings
-name: "Laurin L. Curschellas"
-description: "PhD student in Economics at UC Davis. Research interests in applied econometrics, environmental economics, and policy evaluation."
+name: "Jesita Wida Ajani"
+description: "DPhil candidate in Public Policy at the University of Oxford. Research interests in development, labor, gender, and political economy."
+
 author:
-  name: "Laurin L. Curschellas"
-  email: "lcurschellas@ucdavis.edu"
+  name: "Jesita Wida Ajani"
+  email: "jesita.ajani@bsg.ox.ac.uk"
 
 theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
