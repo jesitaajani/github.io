@@ -18,7 +18,7 @@ permalink: /research/
 - LinkinOut Harassment: A targeted social media experiment to reduce workplace harassment towards women in India  
   (with [Anaya Dam](https://www.wwhge.org/people/anaya-dam/) and [Diego Dabed](https://ddabed.github.io/))
 
-- Promoting Home-Based Affordable Childcare for Low-Income Households in Urban Dhaka  
+- Home-Based Childcare for Low-Income Households in Bangladesh
   (with [Shaila Ahmed](https://bigd.bracu.ac.bd/staffprofile/shaila-ahmed/), [Diva Dhar](https://www.divadhar.com/), [Anandi Mani](https://www.anandimani.com/), [Munshi Sulaiman](https://bigd.bracu.ac.bd/staffprofile/munshi-sulaiman/), and [Sakila Yesmin](https://bigd.bracu.ac.bd/staffprofile/sakila-yesmin-brac-ied/))
 
 ### Research Interests
