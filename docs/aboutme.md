@@ -6,7 +6,10 @@ permalink: /about-me/
 
 ## About me
 
-I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar. My research focuses on development, labor, gender, and political economy. I am particularly interested in how social norms affect female labor force participation, household decision-making, and well-being in developing countries.
+I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar. 
+My research focuses on development, labor, gender, and political economy. 
+I am particularly interested in how social norms affect female labor force participation, 
+household decision-making, and well-being in developing countries.
 
 ### Education
 
