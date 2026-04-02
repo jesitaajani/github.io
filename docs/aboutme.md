@@ -30,4 +30,4 @@ I am particularly interested in how social norms affect female labor force parti
 - Evaluation Specialist - Coordinating Ministry for Economic Affairs (2020)
 - Consultant - Presidential Staff Office (2020)
 
-- [Download full CV (PDF)](/assets/files/CV_2026.pdf)
+- [Download full CV (PDF)](/assets/files/CV_20262.pdf)
