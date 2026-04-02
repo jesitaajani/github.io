@@ -6,22 +6,23 @@ permalink: /about-me/
 
 ## About me
 
-I am a 2nd year PhD student in Economics at the University of California, Davis.  
-My research focuses on causal inference techniques with cross-sectional data. I am interested in applications on immigration, environmental justice and wage inequality.
+I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar. My research focuses on development, labor, gender, and political economy. I am particularly interested in how social norms affect female labor force participation, household decision-making, and well-being in developing countries.
 
 ### Education
 
-**University of California, Davis**
-- PhD in Economics (Expected 2029)
-- Research interests: Applied econometrics, Environmental economics 
-- Major Fields: Econometrics and Labor Economics 
-- Minor Field: Statistics 
+**University of Oxford**
+- DPhil in Public Policy (Expected 2028)
+- Research interest: development, labor, gender economics.
+- Clarendon Scholar
 
 **Prior Education**
-- Masters in Economics - Barcelona School of Economics (2023) 
-- BA in Economics - University of Zürich (2019-2022) 
+- M.Res. in Economics, Paris School of Economics (2023), High Honors
+- Summer Exchange, London School of Economics (2018)
+- B.Sc. in Economics, Universitas Gadjah Mada (2020), Valedictorian
 
 ### Experience
-- Predocotral Research Fellow - FAIR, Norway (2023-24)  
-    Centre for Empirical Labor Economics (CELE)
-- [Download full CV (PDF)](/assets/files/CV_Curschellas_Laurin_03_2026.pdf)
+- Pre-Doctoral Fellow - NHH FAIR, Norway (2023–24)
+- Research Assistant - Blavatnik School of Government, University of Oxford (2022)
+- Consultant - Presidential Staff Office (2020)
+
+- [Download full CV (PDF)](/assets/files/CV_2026.pdf)
