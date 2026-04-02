@@ -29,5 +29,3 @@ I am particularly interested in how social norms affect female labor force parti
 - Research Assistant - Asian Development Bank (2021)
 - Evaluation Specialist - Coordinating Ministry for Economic Affairs (2020)
 - Consultant - Presidential Staff Office (2020)
-
-- [Download full CV (PDF)](/assets/files/CV_20262.pdf)
