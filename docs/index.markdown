@@ -5,11 +5,9 @@ title: Personal Webpage
 
 ## Welcome
 
-I am a 2nd year PhD student in Economics at the University of California, Davis.  
-My research focuses on causal inference techniques with cross-sectional data. I am interested in applications on immigration, environmental justice and wage inequality.
-
-
+I am a DPhil candidate in Public Policy at the University of Oxford and a Clarendon Scholar.  
+My research focuses on development, labor, gender, and political economy. I am particularly interested in how social norms shape female labor force participation, household decision-making, and well-being in developing countries.
 
 ## Contact
-Email: [lcurschellas@ucdavis.edu](mailto:lcurschellas@ucdavis.edu)  
-CV: [Download CV (PDF)](/assets/files/CV_Curschellas_Laurin_03_2026.pdf)
+Email: [jesita.ajani@bsg.ox.ac.uk](mailto:jesita.ajani@bsg.ox.ac.uk)  
+CV: [Download CV (PDF)](/assets/files/CV_2026.pdf)
